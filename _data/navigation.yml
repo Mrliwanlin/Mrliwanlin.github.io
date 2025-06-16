@@ -22,5 +22,5 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Reviewer"
-    url: "/#-reviewer"
+  - title: "Summary"
+    url: "/#-summary"
