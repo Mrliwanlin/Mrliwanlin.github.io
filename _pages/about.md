@@ -33,7 +33,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 - 2024.11   one TRO paper [Tac-Man](https://tacman-aom.github.io/) accepted!
 - 2024.10   one RA-L paper [MiniTac](https://ieeexplore.ieee.org/document/10737431) accepted!
 
- 
+<!-- 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -48,6 +48,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
   </tr>
 </table>
 
+
 # 💻 Research Experiences
 - *2022.10 - Present*, Associate Professor, University of Science and Technology of Beijing (USTB), Beijing, China.
 - *2022.03 - 2022.09*, Visiting Scholar, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
@@ -60,7 +61,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 - *2014.08 - 2015.08*, M.Sc. in Signal Processing and Communications, University of Edinburgh (UoE), U.K.  (Distinction，卓越) 
 - *2012.09 - 2014.06*, B.Eng. in Electronics and Electrical Engineering, University of Edinburgh (UoE), U.K. (First Class Honors，一等荣誉) 
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
-
+ -->
 
 # 📝 Selected Publications 
 
@@ -89,6 +90,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 - **Xinyuan Qian**, Jichen Yang, Alessio Brutti, [Speaker Front-back Disambiguity using Multi-channel Speech Signals](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12666?af=R), **Electronics Letters** 2022.
  -->
 
+<!--
 -- **2025** --
 - Tianhao Zhang, Jiawei Zhang, Jun wang, **Xinyuan Qian<sup>`*`</sup>**, Xucheng Yin, [FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles](https://arxiv.org/pdf/2501.03181), **AAAI**, 2025
 - Wei Zhang, Tian-Hao Zhang, Chao Luo, Hui Zhou, Chao Yang, **Xinyuan Qian<sup>`*`</sup>**, Xu-Cheng Yin, [Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition](https://arxiv.org/pdf/2501.03257), **ICASSP**, 2025
@@ -144,7 +146,8 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Oswald Lanz, Alessio Brutti, Alessio Xompero, **Xinyuan Qian**, Maurizio Omologo, Andrea Cavallaro, [Accurate Target Annotation in 3D from Multimodal Streams](https://ieeexplore.ieee.org/document/8682619), **ICASSP**，2018.
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
 - Deepayan Bhowmik, Andrew Wallace, Robert Stewart, **Xinyuan Qian**, Greg Michaelson, [Profile driven dataflow optimisation of mean shift visual tracking](https://ieeexplore.ieee.org/document/7032066), **GlobalSIP**，2014. 
-
+ -->
+ 
 # 🎖 Certifications and Awards
 - Best Paper Award, COCOSDA, 2021
 - The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
@@ -155,10 +158,7 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Shanghai 801 scholarship, 2011
 - First-Class Scholarship Award, NUAA, Nanjing, China, 2010-2011
 
-# 💬 Teaching 
-- 离散数学
-- 模式识别基础
-
+<!--
 # 👔 Projects
 - Young Scientists Fund of the National Natural Science Foundation of China 国家自然科学基金青年项目 (PI), 2023
 - CCF-Tencent AI-Lab Open Fund 腾讯 AI Lab犀牛鸟专项（PI), 2023
@@ -169,9 +169,10 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Human Robot Interaction Project-Phase 1, Singapore, 2020-2022
 - Huawei Research&Design Project, Shenzhen, China, 2022
 - Shenzhen Research Institute of Big Data Internal Project (SRIBD), Shenzhen, China, 2022
+ -->
 
 # 💬 Reviewer
-- Reviewer of TASLP, TMM, Neural Networks, ICASSP, INTERSPEECH, SPL, ICPR
+- Reviewer of TRO, RA-L, IEEE Sensors Journal, IROS
 
 # 💬 Summary
 - summary of the page
