@@ -20,7 +20,7 @@ redirect_from:
 I am currently a research scientist at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/) in 2021. I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html) in 2016.<br>
 <br>
 
-My research interests mainly focus on force and tactile sensing. I have published papers in top-tier robotic international journals and conferences such as NMI, TRO, RA-L, IEEE Sensors, RSS, ICRA, IROS, RoboSoft.<br>
+My research interests mainly focus on force and tactile sensing. I have published papers in top-tier robotic international journals and conferences such as NMI, T-RO, RA-L, IEEE Sensors, RSS, ICRA, IROS, RoboSoft.<br>
 <br>
 
 
@@ -75,7 +75,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 
 Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengyu Liu<sup>*</sup>, Boren Li, Meng Wang, Kai Du, Hangxin Liu<sup>†</sup>, Yixin Zhu<sup>†</sup>, Qining Wang, Kaspar Althoefer<sup>†</sup>, Song-Chun Zhu
 
-**Nature Machine Intelligence**
+**Nature Machine Intelligence <span style="color: blue;">(NMI)</span>**
 - [Video](https://vimeo.com/1039184307)
 </div>
 </div>
@@ -85,12 +85,24 @@ Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengy
 
 [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://peilin-666.github.io/projects/PP-Tac/)
 
-Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpeng Ma, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>,
+Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpeng Ma, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
 
-**Robotics: Science and Systems 2025 <span style="color: blue;">RSS 2025</span>**
+**Robotics: Science and Systems 2025 <span style="color: blue;">(RSS 2025)</span>**
 
 **7th Robot Learning Workshop in ICLR 2025, <span style="color: blue;">oral</span>**
-- [Sensor Fabrication Video](https://www.youtube.com/watch?v=-npk0cRKWGI&t=32s)
+- [R-Tac Sensor Fabrication Video](https://www.youtube.com/watch?v=-npk0cRKWGI&t=32s)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/T-RO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects](https://tacman-aom.github.io/)
+
+Zihang Zhao<sup>*</sup>, Yuyang Li<sup>*</sup>, **Wanlin Li**, Zhenghao Qi, Lecheng Ruan<sup>†</sup>, Yixin Zhu<sup>†</sup>, Kaspar Althoefer
+
+**IEEE Transactions on Robotics <span style="color: blue;">(T-RO)</span>**
+- [Video](https://vimeo.com/1026777549)
 </div>
 </div>
 <!-- # 📝 Representative Publications
@@ -190,7 +202,7 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
  -->
 
 # 💬 Reviewer
-- Reviewer of TRO, RA-L, IEEE Sensors Journal, IROS
+- Reviewer of T-RO, RA-L, IEEE Sensors Journal, IROS
 
 
 
