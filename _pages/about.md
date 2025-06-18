@@ -146,8 +146,8 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Oswald Lanz, Alessio Brutti, Alessio Xompero, **Xinyuan Qian**, Maurizio Omologo, Andrea Cavallaro, [Accurate Target Annotation in 3D from Multimodal Streams](https://ieeexplore.ieee.org/document/8682619), **ICASSP**，2018.
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
 - Deepayan Bhowmik, Andrew Wallace, Robert Stewart, **Xinyuan Qian**, Greg Michaelson, [Profile driven dataflow optimisation of mean shift visual tracking](https://ieeexplore.ieee.org/document/7032066), **GlobalSIP**，2014. 
- -->
- 
+
+
 # 🎖 Certifications and Awards
 - Best Paper Award, COCOSDA, 2021
 - The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
@@ -157,6 +157,7 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Excellent international student scholarship, Edinburgh, U.K., 2013-2014
 - Shanghai 801 scholarship, 2011
 - First-Class Scholarship Award, NUAA, Nanjing, China, 2010-2011
+ -->
 
 <!--
 # 👔 Projects
