@@ -17,27 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at University of Science and Technology Beijing, China (北京科技大学，计算机与通信工程学院). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li (李海洲)](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler [(FBK)](https://www.fbk.eu/en/), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
+I am currently a research scientist at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/). I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html).
 
-My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 30 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
+My research interests mainly focus on force and tactile sensing. I have published papers in top-tier robotic international journals and conferences such as NMI, TRO, RA-L, IEEE Sensors, RSS, ICRA, IROS, RoboSoft.
 
-🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2026年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
-欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系我 (附CV及自我介绍，qianxy@ustb.edu.cn)
-你将获得：
-- 参加国内/国际会议的机会
-- 海内外名校导师联合指导
-- 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
-- 2025.01   two TASLP paper accepted!
-- 2024.12   one AAAI paper accepted!
-- 2024.09   one ICASSP paper accepted!
-- 2024.07   two ACM MM paper accepted!
-- 2024.05   one IJSR paper accepted!
-- 2024.04   two INTERSPEECH paper accepted!
-- 2024.02   one PRL paper accepted!
+- 2025.06   two IROS papers accepted!
+- 2025.06   one NMI paper [F-Tac Hand](https://www.nature.com/articles/s42256-025-01053-3) accepted!
+- 2025.05   one IEEE Transactions on Consumer Electronics (TCE) paper accepted!
+- 2025.04   one RSS paper [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) accepted!
+- 2024.11   one TRO paper [Tac-Man](https://tacman-aom.github.io/) accepted!
+- 2024.10   one RA-L paper [MiniTac](https://ieeexplore.ieee.org/document/10737431) accepted!
 
  
 # 📜 Research Area
