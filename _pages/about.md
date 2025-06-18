@@ -30,6 +30,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 - 2025.06   one NMI paper [F-Tac Hand](https://www.nature.com/articles/s42256-025-01053-3) accepted!
 - 2025.05   one IEEE Transactions on Consumer Electronics (TCE) paper accepted!
 - 2025.04   one RSS paper [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) accepted!
+- 2025.03   [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) is accepted to ICLR 7th Robot Learning Workshop as a oral paper!
 - 2024.11   one TRO paper [Tac-Man](https://tacman-aom.github.io/) accepted!
 - 2024.10   one RA-L paper [MiniTac](https://ieeexplore.ieee.org/document/10737431) accepted!
 
@@ -65,7 +66,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 
 # 📝 Selected Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -75,7 +76,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div> -->
+</div>
 <!-- # 📝 Representative Publications
  -- **Representative Works** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.

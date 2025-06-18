@@ -6,21 +6,21 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
+  # - title: "Research Experiences"
+  #   url: "/#-research-experiences"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
 
-  - title: "Certifications and Awards"
-    url: "/#-certifications-and-awards"
+  # - title: "Certifications and Awards"
+  #   url: "/#-certifications-and-awards"
 
-  - title: "Projects"
-    url: "/#-projects"
+  # - title: "Projects"
+  #   url: "/#-projects"
 
-  - title: "Summary"
-    url: "/#-summary"
+  # - title: "Summary"
+  #   url: "/#-summary"
