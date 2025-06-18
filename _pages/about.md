@@ -105,6 +105,17 @@ Zihang Zhao<sup>*</sup>, Yuyang Li<sup>*</sup>, **Wanlin Li**, Zhenghao Qi, Lech
 - [Video](https://vimeo.com/1026777549)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/RALMiniTac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MiniTac: An Ultra-Compact 8 mm Vision-Based Tactile Sensor for Enhanced Palpation in Robot-Assisted Minimally Invasive Surgery](https://arxiv.org/abs/2410.22691)
+
+**Wanlin Li<sup>*</sup>**, Zihang Zhao<sup>*</sup>, Leiyao Cui<sup>*</sup>, Weiyi Zhang<sup>*</sup>, Hangxin Liu, Li-An Li<sup>†</sup>, Yixin Zhu<sup>†</sup>
+
+**IEEE Robotics and Automation Letters <span style="color: blue;">(RA-L)</span>**
+</div>
+</div>
 <!-- # 📝 Representative Publications
  -- **Representative Works** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.
