@@ -9,11 +9,11 @@ main:
   # - title: "Research Experiences"
   #   url: "/#-research-experiences"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Publications"
     url: "/#-publications"
-
-  # - title: "Educations"
-  #   url: "/#-educations"
 
 
   # - title: "Certifications and Awards"
