@@ -116,6 +116,19 @@ Zihang Zhao<sup>*</sup>, Yuyang Li<sup>*</sup>, **Wanlin Li**, Zhenghao Qi, Lech
 **IEEE Robotics and Automation Letters <span style="color: blue;">(RA-L)</span>**
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/RALL3FTOUCH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[L3 F-TOUCH: A Wireless GelSight with
+Decoupled Tactile and Three-axis Force Sensing](https://www.researchgate.net/publication/372136046_L3_F-TOUCH_A_Wireless_GelSight_with_Decoupled_Tactile_and_Three-axis_Force_Sensing)
+
+**Wanlin Li<sup>*</sup>**, Meng Wang<sup>*</sup>, Jiarui Li, Yao Su<sup>†</sup>, Devesh K. Jha, Xinyuan Qian,
+Kaspar Althoefer and Hangxin Liu<sup>†</sup>
+
+**IEEE Robotics and Automation Letters <span style="color: blue;">(RA-L)</span>**
+</div>
+</div>
 <!-- # 📝 Representative Publications
  -- **Representative Works** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.
