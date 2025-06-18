@@ -64,6 +64,8 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
  -->
 
+
+<br>
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/NMI_Hand.png' alt="sym" width="100%"></div></div>
@@ -75,6 +77,19 @@ Zihang Zhao, **Wanlin Li**, Yuyang Li, Tengyu Liu, Boren Li, Meng Wang, Kai Du, 
 
 **Nature Machine Intelligence**
 - [Video](https://vimeo.com/1039184307)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/RSS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://peilin-666.github.io/projects/PP-Tac/)
+
+Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpeng Ma, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>,
+
+**Robotics: Science and Systems 2025 <strong > RSS 2025</strong>**
+**7th Robot Learning Workshop in ICLR 2025,<strong > oral</strong>**
+- [Sensor Fabrication Video](https://www.youtube.com/watch?v=-npk0cRKWGI&t=32s)
 </div>
 </div>
 <!-- # 📝 Representative Publications
