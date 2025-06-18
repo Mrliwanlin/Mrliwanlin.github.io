@@ -12,8 +12,8 @@ main:
   # - title: "Educations"
   #   url: "/#-educations"
 
-  # - title: "Publications"
-  #   url: "/#-Selected Publications "
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
 
   # - title: "Certifications and Awards"
