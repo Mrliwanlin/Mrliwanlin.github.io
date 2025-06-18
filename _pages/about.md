@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research scientist at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/). I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html).<br>
+I am currently a research scientist at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/) in 2021. I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html) in 2016.<br>
 <br>
 
 My research interests mainly focus on force and tactile sensing. I have published papers in top-tier robotic international journals and conferences such as NMI, TRO, RA-L, IEEE Sensors, RSS, ICRA, IROS, RoboSoft.<br>
@@ -73,7 +73,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 
 [Embedding high-resolution touch across robotic hands enables adaptive human-like grasping](https://www.nature.com/articles/s42256-025-01053-3)
 
-Zihang Zhao, **Wanlin Li**, Yuyang Li, Tengyu Liu, Boren Li, Meng Wang, Kai Du, Hangxin Liu, Yixin Zhu, Qining Wang, Kaspar Althoefer, Song-Chun Zhu
+Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengyu Liu<sup>*</sup>, Boren Li, Meng Wang, Kai Du, Hangxin Liu<sup>†</sup>, Yixin Zhu<sup>†</sup>, Qining Wang, Kaspar Althoefer<sup>†</sup>, Song-Chun Zhu
 
 **Nature Machine Intelligence**
 - [Video](https://vimeo.com/1039184307)
@@ -87,8 +87,9 @@ Zihang Zhao, **Wanlin Li**, Yuyang Li, Tengyu Liu, Boren Li, Meng Wang, Kai Du, 
 
 Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpeng Ma, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>,
 
-**Robotics: Science and Systems 2025 <strong > RSS 2025</strong>**
-**7th Robot Learning Workshop in ICLR 2025,<strong > oral</strong>**
+**Robotics: Science and Systems 2025 <span style="color: blue;">RSS 2025</span>**
+
+**7th Robot Learning Workshop in ICLR 2025, <span style="color: blue;">oral</span>**
 - [Sensor Fabrication Video](https://www.youtube.com/watch?v=-npk0cRKWGI&t=32s)
 </div>
 </div>
