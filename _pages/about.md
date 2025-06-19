@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research scientist at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I interned at the Tencent Robotics X Lab, under the guidance of [Yu Zheng](https://scholar.google.com/citations?user=oBXTTesAAAAJ&hl=en) and [Yonggen Ling](https://ygling2008.github.io/). I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/). I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html).<br>
+I am currently a researcher at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Prior to that, I interned at the Tencent Robotics X Lab, under the guidance of [Yu Zheng](https://scholar.google.com/citations?user=oBXTTesAAAAJ&hl=en) and [Yonggen Ling](https://ygling2008.github.io/). I obtained the Ph.D degree from Queen Mary, University of London (QMUL), U.K., jointly supervised by Prof. [Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer) and Prof. [Akram Alomainy](http://www.eecs.qmul.ac.uk/~akram/). I obtained my BEng degree from Beijing University of Posts and Telecommunications (BUPT) and QMUL, supervised by Prof. [Khalid Z Rajab](https://www.qmul.ac.uk/eecs/people/profiles/rajabkhalid.html).<br>
 <br>
 
 My research interests mainly focus on force and tactile sensing. I have published papers in top-tier robotic international journals and conferences such as NMI, T-RO, RA-L, IEEE Sensors, RSS, ICRA, IROS, RoboSoft.<br>
@@ -28,7 +28,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 🔥 News
 - 2025.06   two IROS papers accepted!
 - 2025.06   one NMI paper [F-Tac Hand](https://www.nature.com/articles/s42256-025-01053-3) accepted!
-- 2025.05   one IEEE Transactions on Consumer Electronics (TCE) paper accepted!
+- 2025.05   one TCE paper accepted!
 - 2025.04   one RSS paper [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) accepted!
 - 2025.03   [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) is accepted to ICLR 7th Robot Learning Workshop as a oral paper!
 - 2024.11   one TRO paper [Tac-Man](https://tacman-aom.github.io/) accepted!
