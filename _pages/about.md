@@ -28,7 +28,7 @@ My research interests mainly focus on force and tactile sensing. I have publishe
 🔥 News
 - 2025.06   two IROS papers accepted!
 - 2025.06   one NMI paper [F-Tac Hand](https://www.nature.com/articles/s42256-025-01053-3) accepted!
-- 2025.05   one TCE paper accepted!
+- 2025.05   one [TCE paper](https://ieeexplore.ieee.org/abstract/document/11039652) accepted!
 - 2025.04   one RSS paper [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) accepted!
 - 2025.03   [PP-Tac](https://peilin-666.github.io/projects/PP-Tac/) is accepted to ICLR 7th Robot Learning Workshop as a oral paper!
 - 2024.11   one TRO paper [Tac-Man](https://tacman-aom.github.io/) accepted!
