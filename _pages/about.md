@@ -82,7 +82,7 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 
 **Wanlin Li<sup>*</sup>**, Pei Lin<sup>*</sup>, Meng Wang, Chenxi Xiao, Kaspar Althoefer, Yao Su<sup>†</sup>, Ziyuan Jiao<sup>†</sup>, Hangxin Liu<sup>†</sup>
 
-**2025 IEEE/RSJ International Conference on Intelligent Robots and Systems <span style="color: blue;">(IROS 2026)</span>**
+**2025 IEEE/RSJ International Conference on Intelligent Robots and Systems <span style="color: blue;">(IROS 2025)</span>**
 
 </div>
 </div>
