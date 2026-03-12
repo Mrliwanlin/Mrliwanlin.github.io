@@ -75,6 +75,18 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/RTac0.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[R-Tac0: A Rounded High-Frequency Transferable Monochrome Vision-based Tactile Sensor for Shape Reconstruction](https://ieeexplore.ieee.org/document/11246144)
+
+**Wanlin Li<sup>*</sup>**, Pei Lin<sup>*</sup>, Meng Wang, Chenxi Xiao, Kaspar Althoefer, Yao Su<sup>†</sup>, Ziyuan Jiao<sup>†</sup>, Hangxin Liu<sup>†</sup>
+
+**2025 IEEE/RSJ International Conference on Intelligent Robots and Systems <span style="color: blue;">(IROS 2026)</span>**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/T-RO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
