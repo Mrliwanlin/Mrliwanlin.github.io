@@ -49,6 +49,18 @@ Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengy
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DexMove: Learning Tactile-Guided Non-Prehensile Manipulation with Dexterous Hands](https://peilin-666.github.io/projects/DexMove/)
+
+Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
+
+**The Fourteenth International Conference on Learning Representations <span style="color: blue;">(ICLR 2026)</span>**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/RSS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
