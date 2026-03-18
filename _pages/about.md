@@ -46,9 +46,10 @@ Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengy
 
 **Nature Machine Intelligence <span style="color: blue;">(NMI)</span>**
 - [Video](https://vimeo.com/1039184307)
-<!-- </div>
+</div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,10 +57,12 @@ Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengy
 
 Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
 
-**The Fourteenth International Conference on Learning Representations <span style="color: blue;">(ICLR 2026)</span>** -->
+**The Fourteenth International Conference on Learning Representations <span style="color: blue;">(ICLR 2026)</span>** 
+</div>
+</div>
+-->
 
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/RSS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
