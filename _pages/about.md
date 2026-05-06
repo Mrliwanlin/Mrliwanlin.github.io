@@ -49,7 +49,7 @@ Zihang Zhao<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Yuyang Li<sup>*</sup>, Tengy
 </div>
 </div>
 
-<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,6 +60,7 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Chenxi 
 **The Fourteenth International Conference on Learning Representations <span style="color: blue;">(ICLR 2026)</span>** 
 </div>
 </div>
+<!--
 -->
 
 
@@ -89,6 +90,19 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/TMech.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tactile-Guided Exploration and Positioning for High-Precision Robotic Peg-in-Hole Tasks](https://ieeexplore.ieee.org/abstract/document/11466344)
+
+Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Ziyuan Jiao<sup>†</sup>
+
+**IEEE/ASME Transactions on Mechatronics <span style="color: blue;">(TMech)</span>** 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/T-RO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
