@@ -92,7 +92,7 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/TMech.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech</div><img src='images/TMech.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tactile-Guided Exploration and Positioning for High-Precision Robotic Peg-in-Hole Tasks](https://ieeexplore.ieee.org/abstract/document/11466344)
