@@ -88,13 +88,25 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 
 **2025 IEEE/RSJ International Conference on Intelligent Robots and Systems <span style="color: blue;">(IROS 2025)</span>**
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TacTape: Real-time High-accuracy Tactile Fiducial System with Structured 3D Texture for Vision-based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/11696364)
+
+Meng Wang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Qiuxuan Chen, Yuzhe Huang, Hang Li, Kaspar Althoefer, Ziyuan Jiao, Yao Su<sup>†</sup>, Hangxin Liu<sup>†</sup>
+
+**2026 IEEE International Conference on Robotics and Automation <span style="color: blue;">(ICRA 2026)</span>** 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/TRO-TaFVLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://arxiv.org/abs/2601.20321)
+[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://peilin-666.github.io/projects/TaF_VLA/)
 
 Yuzhe Huang<sup>*</sup>, Pei Lin<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Daohan Li, Jiajun Li, Jiaming Jiang, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
 
