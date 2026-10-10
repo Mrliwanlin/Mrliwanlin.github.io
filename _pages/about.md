@@ -91,6 +91,17 @@ Pei Lin<sup>*</sup>, Yuzhe Huang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Jianpen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech</div><img src='images/TRO-TaFVLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation](https://arxiv.org/abs/2601.20321)
+
+Yuzhe Huang<sup>*</sup>, Pei Lin<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Daohan Li, Jiajun Li, Jiaming Jiang, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
+
+**Accepted in IEEE Transactions on Robotics <span style="color: blue;">(T-RO)</span>** 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech</div><img src='images/TMech.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
