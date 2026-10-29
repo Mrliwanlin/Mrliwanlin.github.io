@@ -110,7 +110,7 @@ Meng Wang<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Qiuxuan Chen, Yuzhe Huang, Han
 
 Yuzhe Huang<sup>*</sup>, Pei Lin<sup>*</sup>, **Wanlin Li<sup>*</sup>**, Daohan Li, Jiajun Li, Jiaming Jiang, Chenxi Xiao<sup>†</sup>, Ziyuan Jiao<sup>†</sup>
 
-**Accepted in IEEE Transactions on Robotics <span style="color: blue;">(T-RO)</span>** 
+**IEEE Transactions on Robotics <span style="color: blue;">(T-RO)</span>** 
 </div>
 </div>
 
